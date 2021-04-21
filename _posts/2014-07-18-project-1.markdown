@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: AboutYou CMS
+subtitle: CMS, Software-Engineering
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2020 - March 2021
+client: AboutYou GmbH
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For AboutYou, a international E-Commerce Cloudsystem I successfully developed the CMS-API and connected several Carrier-Apis.
 
 ---
