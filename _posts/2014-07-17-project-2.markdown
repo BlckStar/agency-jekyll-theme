@@ -4,14 +4,14 @@ subtitle: Technical Consulting, Software Engineering, Digital Transformation
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: MVM.png
+thumbnail: MVM.png
 alt: image-alt
 project-date: March 2021 - now
 client: Movamo GmbH
 category: Technical Consulting
 url: https://movamo.de
 description: At Movamo GmbH, the Application just didn't wanted to scale with the incoming stream of users.
- We developed an set up a strategy to make the Application scale to their needs.
+ We developed an set up a strategy to make the Application scale to their needs, including many Principles of DevOps.
 
 ---

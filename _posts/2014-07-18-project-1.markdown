@@ -4,13 +4,13 @@ subtitle: CMS, Software-Engineering
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: AY_Logo.png
+thumbnail: AY_Logo.png
 alt: image-alt
 project-date: March 2020 - March 2021
 client: AboutYou GmbH
 url: https://aboutyou.com
 category: Web Development
-description: For AboutYou, a international E-Commerce Cloudsystem I successfully developed the CMS-API and connected several Carrier-Apis.
+description: For AboutYou, a international E-Commerce Cloudsystem I successfully developed the CMS-API and connected several Carrier-Apis for Document Generation and Retoure-management.
 
 ---
