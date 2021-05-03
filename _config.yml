@@ -4,14 +4,14 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Alexis Peters
 email: info@alexispeters.de
-description: "Technical IT-Consultant, Software-Engineer and Code-Fireman."
+description: "Technical IT-Consultant, DevOps-Engineer, Software-Engineer and Code-Fireman."
 
 
 # Team names, titles and social links
 people:
 - name: Alexis Peters
   pic: me
-  position: Freelancing IT-Consultant
+  position: technical IT- and DevOps Consultant
   social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

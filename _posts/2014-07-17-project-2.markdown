@@ -10,6 +10,7 @@ alt: image-alt
 project-date: March 2021 - now
 client: Movamo GmbH
 category: Technical Consulting
+url: https://movamo.de
 description: At Movamo GmbH, the Application just didn't wanted to scale with the incoming stream of users.
  We developed an set up a strategy to make the Application scale to their needs.
 
