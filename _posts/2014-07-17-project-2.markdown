@@ -12,6 +12,6 @@ client: Movamo GmbH
 category: Technical Consulting
 url: https://movamo.de
 description: At Movamo GmbH, the Application just didn't wanted to scale with the incoming stream of users.
- We developed an set up a strategy to make the Application scale to their needs, including many Principles of DevOps.
+ We developed and set up a strategy to make the Application scale to their needs, including many Principles of DevOps.
 
 ---
